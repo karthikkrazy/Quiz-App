@@ -1,16 +1,3 @@
-# quizapp
+# Quizapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Flutter app that presents a quiz with multiple-choice questions to the user. The user is given a limited amount of time to answer each question, and if they answer correctly, they earn a point. After all questions have been answered, the app displays the user's score and gives them the option to restart the quiz.
